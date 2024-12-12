@@ -6,7 +6,7 @@ Bienvenido al repositorio **Lógica-Y-Algoritmos**, donde encontrarás una colec
 
 ## 🌍 English Version
 
-This file is also available in English. You can access the Spanish version [here](README-English.md).
+This file is also available in English. You can access the English version [here](README-English.md).
 
 ---
 
