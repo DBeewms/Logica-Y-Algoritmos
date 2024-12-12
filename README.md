@@ -4,6 +4,12 @@ Bienvenido al repositorio **Lógica-Y-Algoritmos**, donde encontrarás una colec
 
 ---
 
+## 🌍 English Version
+
+This file is also available in English. You can access the Spanish version [here](README-English.md).
+
+---
+
 ## Descripción del Repositorio
 
 ### Ejercicios en C, C++ y PSeInt
@@ -92,5 +98,5 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 
 ## Notas al Pie
 
-[^1]: Este repositorio fue creado para documentar ejercicios prácticos y ejemplos de la clase Lógica y Algoritmos. Asimismo, para apoyar a los estudiantes de la UAM en su aprendizaje de lógica y algoritmos.
-[^2]: Si encuentras algún error o tienes sugerencias, no dudes en abrir un issue o enviar una pull request.
+Nota 1: Este repositorio fue creado para documentar ejercicios prácticos y ejemplos de la clase Lógica y Algoritmos. Asimismo, para apoyar a los estudiantes de la UAM en su aprendizaje de lógica y algoritmos.
+Nota 2: Si encuentras algún error o tienes sugerencias, no dudes en abrir un issue o enviar una pull request.
