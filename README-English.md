@@ -4,9 +4,9 @@ Welcome to the **Logic-Y-Algorithms** repository, where you will find a collecti
 
 ---
 
-## 🌍 Spanish Version
+## 🌍 Versión en Español
 
-This file is also available in Spanish. You can access the Spanish version [here](README.md).
+Este archivo también está disponible en Español. Puedes acceder a la versión en Español [aquí](README.md).
 
 ---
 
